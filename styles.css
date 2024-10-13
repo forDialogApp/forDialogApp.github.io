@@ -47,12 +47,13 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
+    margin: 5px;
 }
 
 .topSettingsBlock{
     width: 320px;
     display: grid;
-    gap: 7px;
+    gap: 5px;
     grid-template-columns: 50% 50%;
 }
 
