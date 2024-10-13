@@ -43,11 +43,10 @@ body{
 } */
 
 .settingsBlock{
-    width: 98%;
+    width: 99%;
     display: flex;
     justify-content: center;
     text-align: center;
-    margin: 10px;
 }
 
 .topSettingsBlock{
